@@ -13,3 +13,8 @@ Check, dando docker compose dwon e depois docker compose up -d
 <img width="933" height="823" alt="image" src="https://github.com/user-attachments/assets/bdd1f170-9470-495a-af45-86f73b0e02ed" />
 
 Erro, dados não persistiram
+
+
+Quarta run, resolvendo os volumes:
+
+<img width="950" height="799" alt="image" src="https://github.com/user-attachments/assets/0b3914cd-7591-4db8-a170-2a34db267a3b" />
